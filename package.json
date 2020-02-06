@@ -1,0 +1,16 @@
+{
+  "name": "react-dnd-multizone",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "author": "artemkloko <artemkloko@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react-dnd": "^10.0.2",
+    "react-dnd-html5-backend": "^10.0.2"
+  },
+  "devDependencies": {
+    "react": "^16.12.0",
+    "typescript": "^3.7.5"
+  }
+}

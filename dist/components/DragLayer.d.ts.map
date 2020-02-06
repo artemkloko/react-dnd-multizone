@@ -1,0 +1,1 @@
+{"version":3,"file":"DragLayer.d.ts","sourceRoot":"","sources":["../../src/components/DragLayer.tsx"],"names":[],"mappings":"AAAA,OAAO,KAA4B,MAAM,OAAO,CAAC;AAGjD,OAAO,EAAE,gBAAgB,EAAc,MAAM,WAAW,CAAC;AAEzD,oBAAY,oBAAoB,CAAC,QAAQ,EAAE,QAAQ,SAAS,MAAM,IAAI,IAAI,CACxE,gBAAgB,CAAC,QAAQ,EAAE,QAAQ,CAAC,EACpC,mBAAmB,GAAG,OAAO,GAAG,kBAAkB,CACnD,CAAC;AAEF,eAAO,MAAM,SAAS,8XA4CrB,CAAC"}
